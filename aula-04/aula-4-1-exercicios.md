@@ -1,5 +1,5 @@
 
-# Dicas
+# Exercícios
 
 #### 1. Crie um novo repositório no github.
 
