@@ -1,0 +1,22 @@
+assassinato-na-linha-de-comando/
+Git Bash Here
+cat inicio
+cd misterio
+grep PISTA cena-do-crime
+head pessoas
+grep Annabel pessoas
+cd ruas
+head -n 40 Vila_Hart | tail -n 1...
+cd ../
+LEIA A ENTREVISTA #47246024
+LEIA A ENTREVISTA #699607
+cd entrevistas
+cat entrevista-699607
+cat entrevista-47246024
+cd ../
+Honda azul, placa L337...9
+grep L337 -A 4 automoveis | grep -A 3 Honda | grep -A 2 Azul
+cd associacoes
+grep Jeremy AAA ...
+grep Joe AAA ...
+Culpado: Jeremy Bowers
