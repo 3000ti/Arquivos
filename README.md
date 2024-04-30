@@ -6,3 +6,6 @@ Repositório do curso de Lógica de Programação em JavaScript do Projeto 3000 
 02. Git e GitHub
 03. Variáveis
 04. Operadores e Lógica de programação
+05. Strings & arrays
+06. Funções
+07. Objetos
