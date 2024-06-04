@@ -1,7 +1,17 @@
 
-# Escrita de código
+# Escrita
+
+## Instruções
+
+Os exercícios são divididos em interpretação e escrita de código. Para os de interpretação, coloque as respostas em comentários de código. Nos de escrita, lembre-se de imprimir no console os resultados.
+
+> **ATENÇÃO**
+> 
+> Não é permitido utilizar estruturas e sintaxes de código ainda não ensinadas no curso. Para um melhor aproveitamento para si mesmo, force-se a utilizar só o que foi passado.
 
 ---
+
+### Exercícios de escrita de código
 
 #### 1. Faça um programa
 
