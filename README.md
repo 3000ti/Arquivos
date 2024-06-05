@@ -9,3 +9,6 @@ Repositório do curso de Lógica de Programação em JavaScript do Projeto 3000 
 05. Strings & arrays
 06. Funções
 07. Objetos
+08. Condicionais
+09. Laços de repetição
+10. Projeto final
